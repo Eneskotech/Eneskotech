@@ -2,4 +2,4 @@
 - 👀 I’m interested in Javascript, Python and Cybersecurity. however, I'm always open to any challenges and ideas that will get me focus on the tech world positively.
 - 🌱 I’m currently a cybersecurity analyst/open source developer
 - 💞️ I’m looking to collaborate on any profitable and tremendous project that will help me to improve and showcase my skills pssitively and worldwide.
-- 📫 You can always contact me @CHYZY'S-IT I'm looking forward to engage and communicate with y'all soonest.
+- 📫 You can always contact me @Eneskotech I'm looking forward to engage and communicate with y'all soonest.
