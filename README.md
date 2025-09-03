@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Chizydon
+- 👋 Hi, I’m @ Sir_Terna
 - 👀 I’m interested in Javascript, Python and Cybersecurity. however, I'm always open to any challenges and ideas that will get me focus on the tech world positively.
 - 🌱 I’m currently a cybersecurity analyst/open source developer
 - 💞️ I’m looking to collaborate on any profitable and tremendous project that will help me to improve and showcase my skills pssitively and worldwide.
