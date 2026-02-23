@@ -1,5 +1,2 @@
-- 👋 Hi, I’m @ Sir_Terna
-- 👀 I’m interested in Javascript, Python and Cybersecurity. however, I'm always open to any challenges and ideas that will get me focus on the tech world positively.
-- 🌱 I’m currently a cybersecurity analyst/open source developer
-- 💞️ I’m looking to collaborate on any profitable and tremendous project that will help me to improve and showcase my skills pssitively and worldwide.
-- 📫 You can always contact me @Eneskotech I'm looking forward to engage and communicate with y'all soonest.
+- 👋 Hi, I’m @ Eneskotech
+I’m passionate about technology, web development, and coding — constantly learning and building projects that blend creativity with functionality. I enjoy working with HTML/CSS, JavaScript, for front end web design and python (Flask/Django) for my back-end and I’m currently expanding my knowledge in pentesting to build safer and smarter digital solutions.
